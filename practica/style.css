@@ -1,0 +1,70 @@
+#mybody{
+background-color:rgb(24, 187, 111);
+} 
+#myh1{
+    color:rgb(44, 221, 133);
+    text-align: left;
+    font-size: 40px;
+    font-family: fantasy;
+}
+#myh2{
+    color: rgb(255, 251, 0);
+    text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+}
+#myh3{
+    color:aqua ;
+    text-align: right;
+    font-size: 40px;
+    font-family: fantasy;
+}
+#myh3{
+    color: aqua;
+    text-align: right;
+    font-size: 40px;
+    font-family: fantasy;
+}
+#myh4{
+    color: rgb(98, 178, 243);
+    text-align: left;
+    font-size: 40px;
+    font-family: fantasy;
+}
+#myh5{
+color: rgb(255, 0, 0);
+text-align: center;
+font-size:40px;
+font-family: fantasy;
+}
+#myh6{
+    color: rgb(255, 0, 242);
+    text-align: right;
+    font-size: 40px;
+    font-family: fantasy;
+}
+#mydiv{
+    background-color: rgb(7, 206, 140);
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+.biografia{
+     background-color: aliceblue;
+     max-width: 400px;
+     margin: auto;
+     padding: 20px;
+     border-radius: 10px;
+}
+.dato{
+    margin:10px 0;
+    font-size:18px;
+}
+.etiqueta{
+    font-weight: bold;
+    color:#555;
+}
+.valor{
+    color:#222;
+}
